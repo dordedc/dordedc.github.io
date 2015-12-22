@@ -1,6 +1,6 @@
 body {
 	background-color: yellow;
 }
-h1, p {
-	color: black;
+h1, p, ul {
+	color: purple;
 }
