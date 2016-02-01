@@ -1,0 +1,42 @@
+body {
+	background: url("http://4vector.com/i/free-vector-beautiful-pattern-background-04-vector_015116_all-free-download.com_107547848.jpg");
+    background-size: 160px;
+    margin: 18px;
+    margin-top: 18px;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    margin-left: 18px;
+}
+
+h1, p {
+	color: black;
+
+}
+#slogan {
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 900px;    
+}
+
+.important {
+	font-family: "Times New Roman", serif;
+	font-style: italic;
+	font-size: 46px;
+	text-align: center;
+}
+h1, h3 {
+	color: black;
+	font-size: 32px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+a {
+	font-style: Helvetica;
+	font-weight: 600;
+	font-size: 16px;
+	color: blue;
+}
