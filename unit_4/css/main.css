@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Scheherazade:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arvo:700);
+
+
+body {
+	background: url("http://4vector.com/i/free-vector-beautiful-pattern-background-04-vector_015116_all-free-download.com_107547848.jpg");
+    background-size: 71px;
+    margin: 18px;
+    text-align: center;
+    display: block;
+}
+
+p {
+	color: black;
+
+}
+
+#slogan {
+    font-family: 'Arvo', serif;
+    font-size: 32px;
+    line-height: 1.5em;
+    margin: 2em;
+    text-align: center;
+    font-weight: bold;    
+}
+
+.important {
+	font-family: 'Arvo', serif;
+	font-size: 32px;
+	line-height: 1.5em;
+	margin: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+h1, h3 {
+	font-family: 'Scheherazade', sans-serif;
+	color: black;
+	font-size: 37px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+a {
+	text-align: center;
+	text-decoration: none;
+	font-style: Helvetica;
+	font-weight: 600;
+	font-size: 16px;
+	color: blue;
+}
